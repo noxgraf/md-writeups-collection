@@ -1,9 +1,4 @@
-+++
-title = 'Domino - Jr Penetration Tester Challenge'
-date = 2026-06-17
-tags = ["ctf", "writeup", "medium"]
-draft = false
-+++
+# Domino - Jr Penetration Tester Challenge
 
 > This is the first challenge of the end module of the new _Jr Penetration Tester_ path on TryHackMe. It's rated medium and takes 60 minutes to complete. It starts with a basic discovery, followed by a credential bruteforce, session hijacking, Local File Inclusion (or RFI if you choose another path), credential reuse and a cron job running a bash script that the devops user has too much privileges over.
 
